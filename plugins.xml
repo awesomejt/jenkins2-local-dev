@@ -1,0 +1,18 @@
+<jenkins>
+  <install plugin="git@latest" />
+  <install plugin="github@latest" />
+  <install plugin="maven-plugin@latest" />
+  <install plugin="parameterized-trigger@latest" />
+  <install plugin="conditional-buildstep@latest" />
+  <install plugin="greenballs@latest" />
+  <install plugin="gradle@latest" />
+  <install plugin="nodejs@latest" />
+  <install plugin="config-file-provider@latest" />
+  <install plugin="job-dsl@latest" />
+  <install plugin="deploy@latest" />
+  <install plugin="copyartifact@latest" />
+  <install plugin="jenkins-multijob-plugin@latest" />
+  <install plugin="build-timeout@latest" />
+  <install plugin="ws-cleanup" />
+  <install plugin="cloudbees-folder" />
+</jenkins>
